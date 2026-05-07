@@ -7,7 +7,7 @@
       "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/test/cloudy.png",
       "RAINY": "https://ik.imagekit.io/parallaxwallpaper/test/rainy.png",
       "STORM": "https://ik.imagekit.io/parallaxwallpaper/test/storm.png",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/test/snowy.pngg",
+      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/test/snowy.png",
       "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/test/foggy.png"
     }
   },
@@ -19,7 +19,7 @@
       "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/test/cloudy.png",
       "RAINY": "https://ik.imagekit.io/parallaxwallpaper/test/rainy.png",
       "STORM": "https://ik.imagekit.io/parallaxwallpaper/test/storm.png",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/test/snowy.pngg",
+      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/test/snowy.png",
       "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/test/foggy.png"
     }
   },
@@ -31,7 +31,8 @@
       "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/test/cloudy.png",
       "RAINY": "https://ik.imagekit.io/parallaxwallpaper/test/rainy.png",
       "STORM": "https://ik.imagekit.io/parallaxwallpaper/test/storm.png",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/test/snowy.pngg",
+      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/test/snowy.png",
       "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/test/foggy.png"
+    }
   }
 ]
