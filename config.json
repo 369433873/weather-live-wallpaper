@@ -1,0 +1,19 @@
+[
+  {
+    "id": "theme_1",
+    "thumbnail": "https://.../封面缩略图1.jpg",
+    "urls": {
+      "SUNNY": "https://.../场景1_晴.jpg",
+      "CLOUDY": "https://.../场景1_多云.jpg",
+      "RAINY": "https://.../场景1_雨.jpg",
+      "STORM": "https://.../场景1_暴雨.jpg",
+      "SNOWY": "https://.../场景1_雪.jpg",
+      "FOGGY": "https://.../场景1_雾.jpg"
+    }
+  },
+  {
+    "id": "theme_2",
+    "thumbnail": "https://.../封面缩略图2.jpg",
+    "urls": { ...对应场景2的6张图... }
+  }
+]
