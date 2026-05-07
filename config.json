@@ -15,12 +15,12 @@
     "id": "1002",
     "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/test/sunny.jpg",
     "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/test/sunny.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/test/cloudy.png",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/test/rainy.png",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/test/storm.png",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/test/snowy.png",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/test/foggy.png"
+      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/test/sunny1.png",
+      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/test/cloudy1.png",
+      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/test/rainy1.png",
+      "STORM": "https://ik.imagekit.io/parallaxwallpaper/test/storm1.png",
+      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/test/snowy1.png",
+      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/test/foggy1.png"
     }
   },
   {
