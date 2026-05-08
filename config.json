@@ -23,8 +23,68 @@
       "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/test/foggy1.png"
     }
   },
-  {
+    {
     "id": "1003",
+    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/test/sunny1.png",
+    "urls": {
+      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/test/sunny1.png",
+      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/test/cloudy1.png",
+      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/test/rainy1.png",
+      "STORM": "https://ik.imagekit.io/parallaxwallpaper/test/storm1.png",
+      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/test/snowy1.png",
+      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/test/foggy1.png"
+    }
+  },
+    {
+    "id": "1004",
+    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/test/sunny1.png",
+    "urls": {
+      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/test/sunny1.png",
+      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/test/cloudy1.png",
+      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/test/rainy1.png",
+      "STORM": "https://ik.imagekit.io/parallaxwallpaper/test/storm1.png",
+      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/test/snowy1.png",
+      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/test/foggy1.png"
+    }
+  },
+    {
+    "id": "1005",
+    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/test/sunny1.png",
+    "urls": {
+      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/test/sunny1.png",
+      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/test/cloudy1.png",
+      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/test/rainy1.png",
+      "STORM": "https://ik.imagekit.io/parallaxwallpaper/test/storm1.png",
+      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/test/snowy1.png",
+      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/test/foggy1.png"
+    }
+  },
+    {
+    "id": "1006",
+    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/test/sunny1.png",
+    "urls": {
+      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/test/sunny1.png",
+      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/test/cloudy1.png",
+      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/test/rainy1.png",
+      "STORM": "https://ik.imagekit.io/parallaxwallpaper/test/storm1.png",
+      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/test/snowy1.png",
+      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/test/foggy1.png"
+    }
+  },
+    {
+    "id": "1007",
+    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/test/sunny1.png",
+    "urls": {
+      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/test/sunny1.png",
+      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/test/cloudy1.png",
+      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/test/rainy1.png",
+      "STORM": "https://ik.imagekit.io/parallaxwallpaper/test/storm1.png",
+      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/test/snowy1.png",
+      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/test/foggy1.png"
+    }
+  },
+  {
+    "id": "1008",
     "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/test/sunny.jpg",
     "urls": {
       "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/test/sunny.jpg",
