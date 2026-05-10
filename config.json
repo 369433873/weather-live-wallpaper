@@ -1,4 +1,11 @@
-[
+{
+  "ads": {
+    "banner": true,
+    "appOpen": true,
+    "interstitial": true,
+    "native": true
+  },
+  "wallpapers": [
   {
     "id": "1001",
     "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo1.jpg",
@@ -72,3 +79,5 @@
     }
   }
 ]
+
+}
