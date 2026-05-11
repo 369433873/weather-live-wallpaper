@@ -1,9 +1,9 @@
 {
   "ads": {
-    "banner": true,
-    "appOpen": true,
-    "interstitial": true,
-    "native": true
+    "banner": false,
+    "appOpen": false,
+    "interstitial": false,
+    "native": false
   },
   "wallpapers": [
     {
