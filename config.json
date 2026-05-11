@@ -3,165 +3,164 @@
     "banner": true,
     "appOpen": true,
     "interstitial": true,
-    "native": true
+    "native": false
   },
   "wallpapers": [
-  {
-    "id": "1001",
-    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo1.jpg",
-    "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny1.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy1.jpg",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy1.jpg",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm1.jpg",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy1.jpg",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy1.jpg"
-    }
-  },
-  {
-    "id": "1002",
-    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo2.jpg",
-    "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny2.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy2.jpg",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy2.jpg",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm2.jpg",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy2.jpg",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy2.jpg"
-    }
-  },
     {
-    "id": "1003",
-    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo3.jpg",
-    "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny3.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy3.jpg",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy3.jpg",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm3.jpg",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy3.jpg",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy3.jpg"
-    }
-  },
+      "id": "1001",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo1.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny1.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy1.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy1.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm1.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy1.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy1.jpg"
+      }
+    },
     {
-    "id": "1004",
-    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo4.jpg",
-    "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny4.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy4.jpg",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy4.jpg",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm4.jpg",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy4.jpg",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy4.jpg"
-    }
-  },
+      "id": "1002",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo2.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny2.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy2.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy2.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm2.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy2.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy2.jpg"
+      }
+    },
     {
-    "id": "1005",
-    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo5.jpg",
-    "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny5.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy5.jpg",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy5.jpg",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm5.jpg",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy5.jpg",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy5.jpg"
-    }
-  },
+      "id": "1003",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo3.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny3.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy3.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy3.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm3.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy3.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy3.jpg"
+      }
+    },
     {
-    "id": "1006",
-    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo6.jpg",
-    "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny6.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy6.jpg",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy6.jpg",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm6.jpg",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy6.jpg",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy6.jpg"
-    }
-  },
+      "id": "1004",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo4.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny4.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy4.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy4.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm4.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy4.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy4.jpg"
+      }
+    },
     {
-    "id": "1007",
-    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo7.jpg",
-    "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny7.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy7.jpg",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy7.jpg",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm7.jpg",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy7.jpg",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy7.jpg"
-    }
-  },
+      "id": "1005",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo5.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny5.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy5.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy5.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm5.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy5.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy5.jpg"
+      }
+    },
     {
-    "id": "1008",
-    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo8.jpg",
-    "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny8.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy8.jpg",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy8.jpg",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm8.jpg",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy8.jpg",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy8.jpg"
-    }
-  },
+      "id": "1006",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo6.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny6.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy6.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy6.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm6.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy6.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy6.jpg"
+      }
+    },
     {
-    "id": "1009",
-    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo9.jpg",
-    "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny9.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy9.jpg",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy9.jpg",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm9.jpg",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy9.jpg",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy9.jpg"
-    }
-  },
+      "id": "1007",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo7.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny7.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy7.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy7.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm7.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy7.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy7.jpg"
+      }
+    },
     {
-    "id": "1010",
-    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo10.jpg",
-    "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny10.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy10.jpg",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy10.jpg",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm10.jpg",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy10.jpg",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy10.jpg"
-    }
-  },
+      "id": "1008",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo8.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny8.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy8.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy8.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm8.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy8.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy8.jpg"
+      }
+    },
     {
-    "id": "1011",
-    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo11.jpg",
-    "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny11.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy11.jpg",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy11.jpg",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm11.jpg",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy11.jpg",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy11.jpg"
-    }
-  },
+      "id": "1009",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo9.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny9.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy9.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy9.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm9.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy9.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy9.jpg"
+      }
+    },
     {
-    "id": "1012",
-    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo12.jpg",
-    "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny12.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy12.jpg",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy12.jpg",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm12.jpg",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy12.jpg",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy12.jpg"
-    }
-  },
+      "id": "1010",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo10.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny10.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy10.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy10.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm10.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy10.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy10.jpg"
+      }
+    },
     {
-    "id": "1013",
-    "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo13.jpg",
-    "urls": {
-      "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny13.jpg",
-      "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy13.jpg",
-      "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy13.jpg",
-      "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm13.jpg",
-      "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy13.jpg",
-      "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy13.jpg"
+      "id": "1011",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo11.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny11.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy11.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy11.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm11.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy11.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy11.jpg"
+      }
+    },
+    {
+      "id": "1012",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo12.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny12.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy12.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy12.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm12.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy12.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy12.jpg"
+      }
+    },
+    {
+      "id": "1013",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo13.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny13.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy13.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy13.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm13.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy13.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy13.jpg"
+      }
     }
-  }
-]
-
+  ]
 }
