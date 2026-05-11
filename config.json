@@ -3,7 +3,7 @@
     "banner": true,
     "appOpen": true,
     "interstitial": true,
-    "native": true
+    "native": false
   },
   "wallpapers": [
     {
