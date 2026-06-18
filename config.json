@@ -185,6 +185,18 @@
         "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy15.jpg",
         "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy15.jpg"
       }
+    },
+    {
+      "id": "1016",
+      "thumbnail": "https://ik.imagekit.io/parallaxwallpaper/weather/suo16.jpg",
+      "urls": {
+        "SUNNY": "https://ik.imagekit.io/parallaxwallpaper/weather/sunny16.jpg",
+        "CLOUDY": "https://ik.imagekit.io/parallaxwallpaper/weather/cloudy16.jpg",
+        "RAINY": "https://ik.imagekit.io/parallaxwallpaper/weather/rainy16.jpg",
+        "STORM": "https://ik.imagekit.io/parallaxwallpaper/weather/storm16.jpg",
+        "SNOWY": "https://ik.imagekit.io/parallaxwallpaper/weather/snowy16.jpg",
+        "FOGGY": "https://ik.imagekit.io/parallaxwallpaper/weather/foggy16.jpg"
+      }
     }
   ]
 }
