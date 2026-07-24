@@ -1,7 +1,7 @@
 {
   "ads": {
     "banner": true,
-    "appOpen": false,
+    "appOpen": true,
     "interstitial": true,
     "native": true
   },
